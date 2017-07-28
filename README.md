@@ -22,3 +22,6 @@ How to use it
 All Fields of VirtualList are same calculation formula.
 It doesn't depend on hard-coded key names.
 In short, it's DRY.
+
+Sample File: fetch2.fmp12
+--> 1 table, 1 field for Virtual List
