@@ -25,3 +25,6 @@ In short, it's DRY.
 
 Sample File: fetch2.fmp12
 --> 1 table, 1 field for Virtual List
+
+Sample File: fetch3.fmp12
+--> Analyze JSON(Virtual List) data by ExecuteSQL
